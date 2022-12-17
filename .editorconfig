@@ -1,0 +1,4 @@
+# ensure all editors use lf line endings
+root = true
+[*]
+end_of_line = lf
