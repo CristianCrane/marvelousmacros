@@ -1,0 +1,7 @@
+/* to use css modules, the file must end with `.module.css` */
+/* css modules are component level styles that wont collide with anything else in the app */
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
